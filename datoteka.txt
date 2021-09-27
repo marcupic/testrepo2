@@ -1,3 +1,4 @@
 Ovo je datoteka.txt
 Ovo je njezin drugi redak.
+Ovo je novi redak za datoteku.txt.
 

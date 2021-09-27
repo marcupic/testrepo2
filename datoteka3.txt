@@ -1,0 +1,3 @@
+Ovo je datoteka3.txt
+Ovo je drugi redak.
+
