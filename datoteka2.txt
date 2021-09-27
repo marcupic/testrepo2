@@ -1,0 +1,2 @@
+Ovo je datoteka2.txt
+Ovo je drugi redak.
