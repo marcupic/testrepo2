@@ -1,0 +1,3 @@
+Ovo je datoteka.txt
+Ovo je njezin drugi redak.
+
